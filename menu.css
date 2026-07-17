@@ -1,0 +1,86 @@
+body {
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/20/936/desktop-wallpaper-catering-menu-backgrounds-material-food-menu.jpg"); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#chef {
+    background: linear-gradient(red, black);
+}
+
+#dragon {
+    background-image: url(https://tse1.mm.bing.net/th/id/OIP.7g6qskdB_O3pgiOrGMPOxwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3);
+    font-size: 40px;
+    text-align: center;
+    color: azure;
+    display: block;
+    margin: 0 auto;
+}
+#dragon-img {
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    background-color: rgb(1, 118, 3);
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+
+
+#american {
+    background: linear-gradient(to right, red, white, blue);
+    font-size: 100px;
+    text-align: center;
+}
+#mex{
+    background: linear-gradient(to right, red, white, green);
+    font-size: 100px;
+    text-align: center;
+}
+#pasta {
+    background: linear-gradient(to left, green, white, red);
+    font-size: 100px;
+    text-align: center;
+}
+#soups {
+    background-color: rgb(184, 112, 17);
+    font-size: 100px;
+    text-align: center;
+
+}
+
+#salads {
+    background-color: lightgreen;
+    font-size: 100px;
+    text-align: center;
+}
+
+
+
+li {
+    font-size: 50px;
+    color: antiquewhite;
+    
+}
+
+p {
+    font-size: 30px;
+    color: wheat;
+    text-align: left;
+}
+
+
