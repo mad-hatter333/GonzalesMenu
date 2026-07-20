@@ -52,7 +52,7 @@ h2 {
     text-align: center;
 }
 #pasta {
-    background: linear-gradient(to left, green, white, red);
+    background: linear-gradient(to right, green, white, red);
     font-size: 100px;
     text-align: center;
 }
